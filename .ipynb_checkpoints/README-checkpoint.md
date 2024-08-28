@@ -319,6 +319,6 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 
 <div style="text-align: center;">
   <a href="https://github.com/deBUGger404" target="_blank">
-    <img src="../Data/happy_code.webp" alt="Happy Code" style="width:200px; border-radius:12px;">
+    <img src="./Data/happy_code.webp" alt="Happy Code" style="width:200px; border-radius:12px;">
   </a>
 </div>
