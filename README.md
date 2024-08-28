@@ -51,7 +51,7 @@ This series is designed to provide a comprehensive education in Python, from the
 
 [Watch the Video on YouTube](https://www.youtube.com/watch?v=your-video-link-here)
 
-**[Code Examples](./Beginner%20Level//)**
+**[Code Examples](./Beginner%20Level/1.%20Introduction%20to%20Python.ipynb/)**
 
 ### Basic Python Syntax
 
@@ -61,7 +61,7 @@ This series is designed to provide a comprehensive education in Python, from the
 
 [Watch the Video on YouTube](https://www.youtube.com/watch?v=your-video-link-here)
 
-**[Code Examples](./Beginner%20Level/1.%20Python_Syntax.ipynb/)**
+**[Code Examples](./Beginner%20Level/2.%20Python_Syntax.ipynb/)**
 
 ### Control Flow
 
@@ -71,7 +71,7 @@ This series is designed to provide a comprehensive education in Python, from the
 
 [Watch the Video on YouTube](https://www.youtube.com/watch?v=your-video-link-here)
 
-**[Code Examples](./Beginner%20Level/2.%20Control%20Flow.ipynb/)**
+**[Code Examples](./Beginner%20Level/3.%20Control%20Flow.ipynb/)**
 
 ### Functions
 
@@ -82,7 +82,7 @@ This series is designed to provide a comprehensive education in Python, from the
 
 [Watch the Video on YouTube](https://www.youtube.com/watch?v=your-video-link-here)
 
-**[Code Examples](./Beginner%20Level/3.%20Functions.ipynb/)**
+**[Code Examples](./Beginner%20Level/4.%20Functions.ipynb/)**
 
 ### Data Structures
 
@@ -93,7 +93,7 @@ This series is designed to provide a comprehensive education in Python, from the
 
 [Watch the Video on YouTube](https://www.youtube.com/watch?v=your-video-link-here)
 
-**[Code Examples](./Beginner%20Level/4.%20Data%20Structures.ipynb/)**
+**[Code Examples](./Beginner%20Level/5.%20Data%20Structures.ipynb/)**
 
 ### Working with Strings
 
@@ -104,7 +104,7 @@ This series is designed to provide a comprehensive education in Python, from the
 
 [Watch the Video on YouTube](https://www.youtube.com/watch?v=your-video-link-here)
 
-**[Code Examples](./Beginner%20Level/5.%20Python%20Strings.ipynb/)**
+**[Code Examples](./Beginner%20Level/6.%20Python%20Strings.ipynb/)**
 
 ---
 
